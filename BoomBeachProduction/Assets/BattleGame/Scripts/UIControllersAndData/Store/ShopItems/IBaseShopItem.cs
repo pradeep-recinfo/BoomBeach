@@ -1,0 +1,9 @@
+using Assets.Scripts.UIControllersAndData.Store;
+
+namespace UIControllersAndData.Store.ShopItems
+{
+    public interface IBaseShopItem
+    {
+        void Initialize(DrawCategoryData data, ShopCategoryType shopCategoryType);
+    }
+}
