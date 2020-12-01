@@ -1,9 +1,3 @@
-/**
- * This source file is part of CityBuildingKit.
- * Copyright (c) 2019.
- * All rights reserved.
- */
-
 using System;
 using System.Linq;
 using Assets.Scripts.UIControllersAndData.Store;

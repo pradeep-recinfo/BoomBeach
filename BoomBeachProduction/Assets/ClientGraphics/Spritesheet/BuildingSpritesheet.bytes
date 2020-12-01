@@ -1,0 +1,44 @@
+i tk2d 1
+w 966
+h 1986
+~
+n dobbitToolhouse
+s 499 1247 397 495
+r 1
+~
+n dobbitToolhouse_bw
+s 650 1744 281 226
+o 14 16 312 244
+~
+n goldForge
+s 1 1686 367 299
+~
+n goldForge_bw
+s 502 748 419 497
+r 1
+~
+n goldVault
+s 1 897 496 388
+~
+n goldVault_bw
+s 502 505 434 241
+o 1 5 244 444
+r 1
+~
+n manaBarrel
+s 370 1744 278 237
+o 11 8 300 247
+~
+n manaBarrel_bw
+s 542 1 423 502
+r 1
+~
+n manaGenerator
+s 1 1 539 485
+~
+n summoningCircle
+s 1 1287 494 397
+~
+n summoningCircle_bw
+s 1 488 499 407
+~
